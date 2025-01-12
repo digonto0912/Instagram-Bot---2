@@ -1,4 +1,4 @@
-#  Insta-Bot-1: Instagram Automation with Selenium
+#  Insta-Bot-2: Instagram Automation with Selenium
  
  Insta-Bot-1 is an Instagram automation bot designed using Selenium to automate tasks like liking posts, following users, and commenting on posts on Instagram. The bot interacts with Instagram’s web interface in a manner similar to a human user, performing repetitive actions to increase engagement or manage a social media account efficiently.
 
